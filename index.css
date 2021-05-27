@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+/*--------------incremental mini app--------------------------*/
+
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  background-color: rgb(150, 150, 133);
+}
+h2{
+  text-align: center;
+  color: rgb(9, 102, 102);
+  font-size: 40px;
+  padding: 5px;
+}
+
+h1{
+  text-align: center;
+  color: brown;
+  font-size: 50px;
+  
+}
+.In{
+  
+  margin-left: 300px;
+  font-size: 50px;
+  background-color: rgb(35, 206, 35);
+  box-shadow: 4px  0px 0px 4px rgb(11, 170, 162);
+  border-radius: 10px;
+  padding: 4px 0px;
+  cursor: pointer;
+}
+
+.De{
+  
+  margin-left: 250px;
+  font-size: 50px;
+  background-color: rgb(35, 206, 35);
+  box-shadow: 4px  0px 0px 4px rgb(11, 170, 162);
+  border-radius: 10px;
+  padding: 4px 0px;
+  cursor: pointer;
+}
+
+
+
+
+
+
